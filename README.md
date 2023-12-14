@@ -1,0 +1,3 @@
+WhatsApp (English: WhatsApp) is a free program, the main Internet messaging platform, Voice over Internet (VoIP) owned by Meta, that allows users to send text and voice messages, make voice and video calls, and share photos, documents, user locations, and other media.
+This project is a detailed research into the WhatsApp application and how to use it and solve its WhatsApp
+Softweare Engineering Project،Introduction، problem and Proposed solution، Background، Work plan، project Requirements: functional requirements، project Requirement: Non-Functional requirement، Activity diagram، Actors، Tables،  Sequence diagram
